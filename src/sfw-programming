@@ -26,10 +26,10 @@
 	-- E. W. Dijkstra, http://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html
 %
 "A monad is a monoid in the category of endofunctors, what's the problem?"
-	-- James Iry, fictionally quoting Philip Wadler, paraphrasing Saunders Mac Lane, who wrote "All told, a monad in X is just a monoid in the category of endofunctors of X, with product × replaced by composition of endofunctors and unit set by the identity endofunctor."
+	-- James Iry, fictionally quoting Philip Wadler, paraphrasing Saunders Mac Lane, co-founder of category theory.
 %
 "All told, a monad in X is just a monoid in the category of endofunctors of X, with product × replaced by composition of endofunctors and unit set by the identity endofunctor."
-	-- Saunders Mac Lane
+	-- Saunders Mac Lane, co-founder of category theory
 %
 "A program that produces incorrect results twice as fast is infinitely slower."
 	-- John Osterhout
