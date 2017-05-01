@@ -34,3 +34,24 @@
 "A program that produces incorrect results twice as fast is infinitely slower."
 	-- John Osterhout
 %
+"She was the first machine man built that assisted the power of his brain instead of the strength of his arm."
+	-- Rear Admiral Grace Murray Hopper, speaking about the Mark I
+%
+"…what was really required was a description of the data and a statement of the relationships between the data sets. … We must state relationships, not procedures."
+	-- Rear Admiral Grace Murray Hopper, speaking of The Language Structures Group
+%
+"[The Analytical Engine] might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations … the engine might compose elaborate and scientific pieces of music of any degree of complexity or extent."
+	-- Ada Lovelace, 1842
+%
+"Software during the early days … was regarded as an art and as magic, not a science. I had always believed that both art and science were involved in its creation, but at that time most thought otherwise. Knowing this, I fought to bring the software legitimacy so that it (and those building it) would be given its due respect and thus I began to use the term “software engineering” to distinguish it from hardware and other kinds of engineering; yet, treat each type of engineering as part of the overall systems engineering process. When I first started using this phrase, it was considered to be quite amusing. It was an ongoing joke for a long time. They liked to kid me about my radical ideas. Software eventually and necessarily gained the same respect as any other discipline."
+	-- Margaret Hamilton, Director of Apollo Flight Computer Programming: https://medium.com/@verne/margaret-hamilton-the-engineer-who-took-the-apollo-to-the-moon-7d550c73d3fa
+%
+"So what I said in that talk was: When we define a subtype, it ought to have the same behavior as the supertype, as far as anybody using it could tell. A very simple idea, but nobody had said that before. This is known now as the Liskov Substitution Principle—it developed a life of its own! [laughs.]"
+	-- Barbara Liskov, computer scientist, on OOPSLA (1987): http://ethw.org/Oral-History:Barbara_Liskov_(2001)
+%
+"When my students leave, I mourn."
+	-- Barbara Liskov, computer scientist: http://ethw.org/Oral-History:Barbara_Liskov_(2001)
+%
+"From then on, when anything went wrong with a computer, we said it had bugs in it."
+	-- Rear Admiral Grace Murray Hopper, on the extraction of a moth from the Mark II
+%
