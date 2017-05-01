@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Re-generate index file
+
+echo 'Automatically re-generating quotes index before committing'
+strfile src/sfw-programming
+git add src/sfw-programming.dat
