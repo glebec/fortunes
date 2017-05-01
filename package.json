@@ -10,6 +10,6 @@
     "husky": "^0.13.3"
   },
   "scripts": {
-    "precommit": "echo 'Automatically re-generating quotes index before committing' && git add programming-fortunes.dat"
+    "precommit": "echo 'Automatically re-generating quotes index before committing' && strfile programming-fortunes && git add programming-fortunes.dat"
   }
 }
