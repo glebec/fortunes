@@ -1,36 +1,36 @@
 "The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle."
-    — Joe Armstrong, creator of Erlang
+	-- Joe Armstrong, creator of Erlang
 %
 "If a feature is sometimes dangerous, and there is a better option, then always use the better option."
-    — Douglas Crockford, author of JavaScript: The Good Parts
+	-- Douglas Crockford, author of JavaScript: The Good Parts
 %
 "Simplicity is prerequisite for reliability."
-    — Edsger W. Dijkstra, computer scientist and educator
+	-- Edsger W. Dijkstra, computer scientist and educator
 %
 "The computing scientist's main challenge is not to get confused by the complexities of his own making."
-    – E. W. Dijkstra
+	-- E. W. Dijkstra
 %
 "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies."
-    – C.A.R. Hoare, The 1980 ACM Turing Award Lecture
+	-- C.A.R. Hoare, The 1980 ACM Turing Award Lecture
 %
 "Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function."
-    — John Carmack, creator of DOOM (https://twitter.com/ID_AA_Carmack/status/53512300451201024)
+	-- John Carmack, creator of DOOM (https://twitter.com/ID_AA_Carmack/status/53512300451201024)
 %
 "Gear is the ultimate procrastination."
-    — Max Joseph, filmmaker
+	-- Max Joseph, filmmaker
 %
 "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
-    — Brian W. Kernighan (and and P. J. Plauger), author(s) of The Elements of Programming Style
+	-- Brian W. Kernighan (and and P. J. Plauger), author(s) of The Elements of Programming Style
 %
 "We could, for instance, begin with cleaning up our language by no longer calling a bug a bug but by calling it an error. It is much more honest because it squarely puts the blame where it belongs, viz. with the programmer who made the error. The animistic metaphor of the bug that maliciously sneaked in while the programmer was not looking is intellectually dishonest as it disguises that the error is the programmer's own creation. The nice thing of this simple change of vocabulary is that it has such a profound effect: while, before, a program with only one bug used to be "almost correct", afterwards a program with an error is just "wrong" (because in error)."
-    — E. W. Dijkstra, http://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html
+	-- E. W. Dijkstra, http://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html
 %
 "A monad is a monoid in the category of endofunctors, what's the problem?"
-    — James Iry, fictionally quoting Philip Wadler, paraphrasing Saunders Mac Lane, who wrote "All told, a monad in X is just a monoid in the category of endofunctors of X, with product × replaced by composition of endofunctors and unit set by the identity endofunctor."
+	-- James Iry, fictionally quoting Philip Wadler, paraphrasing Saunders Mac Lane, who wrote "All told, a monad in X is just a monoid in the category of endofunctors of X, with product × replaced by composition of endofunctors and unit set by the identity endofunctor."
 %
 "All told, a monad in X is just a monoid in the category of endofunctors of X, with product × replaced by composition of endofunctors and unit set by the identity endofunctor."
-    — Saunders Mac Lane
+	-- Saunders Mac Lane
 %
 "A program that produces incorrect results twice as fast is infinitely slower."
-    – John Osterhout
+	-- John Osterhout
 %
