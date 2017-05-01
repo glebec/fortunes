@@ -1,0 +1,15 @@
+{
+  "name": "sfw-programming-fortunes",
+  "version": "1.0.0",
+  "description": "SFW (Safe For Work) programming wisdom quotes for the fortune program",
+  "main": "programming-quotes",
+  "repository": "https://github.com/glebec/fortunes.git",
+  "author": "Gabriel Lebec <glebec@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^0.13.3"
+  },
+  "scripts": {
+    "precommit": "echo 'Automatically re-generating quotes index before committing' && git add programming-fortunes.dat"
+  }
+}
