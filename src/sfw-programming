@@ -61,3 +61,6 @@
 "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."
 	-- attributed to Ward Cunningham, quoted as Cunningham's Law
 %
+"Some people prefer not to commingle the functional, lambda-calculus part of a language with the parts that do side effects. It seems they believe in the separation of Church and State."
+	-- Guy Steele, coauthor of the Lambda Papers.
+%
