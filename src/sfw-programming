@@ -64,3 +64,6 @@
 "Some people prefer not to commingle the functional, lambda-calculus part of a language with the parts that do side effects. It seems they believe in the separation of Church and State."
 	-- Guy Steele, coauthor of the Lambda Papers.
 %
+"Thus, programs must be written for people to read, and only incidentally for machines to execute."
+	-- Hal Abelson, SICP
+%
