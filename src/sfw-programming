@@ -70,3 +70,24 @@
 "Functional programmer: (noun) One who names variables 'x', names functions 'f', and names code patterns 'zygohistomorphic prepromorphism'"
 	-- James Iry
 %
+"The most depressing thing about life as a programmer, I think, is if you’re faced with a chunk of code that either someone else wrote or, worse still, you wrote yourself but no longer dare to modify. That’s depressing."
+	-- Simon Peyton Jones
+%
+"The explicit teaching of thinking is no trivial task, but who said that the teaching of programming is? In our terminology, the more explicitly thinking is taught, the more of a scientist the programmer will become."
+	-- Edsger Dijkstra
+%
+"A parser for things / Is a function from strings / To lists of pairs / Of things and strings"
+	-- Fritz Ruehr
+%
+"Every good idea will be discovered twice: once by a logician and once by a computer scientist."
+	-- Philip Wadler
+%
+"The functional programmer sounds rather like a mediæval monk, denying himself the pleasures of life in the hope that it will make him virtuous."
+	-- John Hughes, Why Functional Programming Matters
+%
+"It is not only not right, it is not even wrong."
+	-- apocryphal, attributed to Wolfgang Pauli
+%
+"Precision diminishes the likelihood of truth, but often increases the pragmatic value of a belief if it is true."
+	-- Bertrand Russell
+%
