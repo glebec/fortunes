@@ -91,3 +91,18 @@
 "Precision diminishes the likelihood of truth, but often increases the pragmatic value of a belief if it is true."
 	-- Bertrand Russell
 %
+"Even if you aren't in doubt, consider the mental welfare of the person who has to maintain the code after you, and who will probably put parens in the wrong place."
+	-- Larry Wall, perl man page
+%
+"We will encourage you to develop the three great virtues of a programmer: laziness, impatience, and hubris."
+	-- Larry Wall, Programming Perl
+%
+"It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter."
+	-- Nathaniel Borenstein
+%
+"Doing linear scans over an associative array is like trying to club someone to death with a loaded Uzi."
+	-- Larry Wall
+%
+"The teaching of BASIC should be rated as a criminal offence: it mutilates the mind beyond recovery."
+	-- Edsger Dijkstra
+%
